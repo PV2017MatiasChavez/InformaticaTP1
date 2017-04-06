@@ -11,7 +11,7 @@ package productoria;
  * @author Alumno
  */
 public class ProductoriaN {
-    private int n,s; //la variable es un atributo ->propiedad
+    private int n; //la variable es un atributo ->propiedad
 
     public ProductoriaN() {
     }
