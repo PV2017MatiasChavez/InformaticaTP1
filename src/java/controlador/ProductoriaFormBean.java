@@ -5,7 +5,6 @@
  */
 package controlador;
 
-import factorial.FactorialN;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 import productoria.ProductoriaN;
